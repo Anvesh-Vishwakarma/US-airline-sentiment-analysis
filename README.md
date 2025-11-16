@@ -1,1 +1,2 @@
-# US-airline-sentiment-analysis
+This project uses the US Airline Tweets dataset, which contains thousands of tweets labeled by sentiment. Using NLP preprocessing and machine learning models, the classifier learns patterns in how customers express satisfaction or dissatisfaction.
+The project also includes exploratory data analysis (EDA) to uncover insights such as the most talked-about airlines, common negative reasons, and sentiment distribution
